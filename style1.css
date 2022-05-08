@@ -1,0 +1,60 @@
+.container{
+    max-width: 1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-21{
+    flex-basis: 50%;
+    min-width: 300xp;
+    padding-left: 25px;
+}
+.col-2 img{
+    max-width: 60%;
+    padding: 50px 0;
+}
+.col-2 h1{
+    font-size: 70px;
+    line-height: 70px;
+    margin: 25px 0;
+
+}
+.col-22{
+    flex-basis: 50%;
+    min-width: 300px;
+    padding-top: 35px;
+}
+.col-2{
+    flex-basis: 50%;
+    min-width: 300px;
+}
+.col-25{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    flex-basis: 50%;
+    max-width: 300px;
+}
+
+
+.home{
+    background-color: blanchedalmond;
+}
+.navbar{
+    background-color: blanchedalmond;
+}
+
+.skill{
+    background-color: rgb(209, 204, 204);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.about{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
