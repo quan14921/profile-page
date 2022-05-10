@@ -13,7 +13,7 @@ const Home = (props: Props) => {
 
       </div>
       <div className="col-2">
-        <img src="anh.jpg" />
+        <img src="https://i.ibb.co/JpnWg5D/anh.jpg" />
       </div>
     </div>
 </div>
